@@ -1,0 +1,48 @@
+body {
+}
+
+#logo {
+    color: yellowgreen;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#tittle {
+    max-width: 640px;
+    font-size: 5rem;
+}
+
+#tittle > span {
+    color: darkblue;
+}
+
+#feature {
+    display: flex;
+    margin: 1rem;
+
+}
+
+#img {
+    color: aliceblue;
+    background-color: darkmagenta;
+    min-width: 100px;
+    width: 20%;
+}
+
+#content > span {
+    font-weight: bold;
+    font-size: 100%;
+}
+
+#content {
+    display: inline-block;
+    max-width: 400px;
+    margin: 1rem;
+}
+
+
+footer {
+    clear: both;
+    display: flex;
+    justify-content: end;
+}

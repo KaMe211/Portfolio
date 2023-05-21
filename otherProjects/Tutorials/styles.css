@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+body
+{
+
+    color: white;
+    background-color: rgb(30, 30, 30);
+
+}
+
+
+#content
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    min-width: 400px;
+
+}
+
+
+#Header
+{
+    background-color: darkslategray;
+    position: sticky ;
+    justify-content: center;
+}
+
+
+#Header a {
+    border: 2px solid black;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(30, 30, 30);
+
+}
+
+div a {
+    color: bisque;
+}
+
+input[type="text"] {
+    color: brown;
+    font-style: italic;
+
+    border: 2px solid yellow;
+}
+
